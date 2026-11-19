@@ -13,3 +13,8 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+parentid,Parent ID,,
+notes,Notes
+contributor,Contributor
+publisher,Publisher
+tag,Tags
