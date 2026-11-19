@@ -17,4 +17,4 @@ parentid,Parent ID,,
 notes,Notes
 contributor,Contributor
 publisher,Publisher
-tag,Tags
+tag,Tags,true
